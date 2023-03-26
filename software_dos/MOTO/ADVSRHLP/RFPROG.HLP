@@ -1,0 +1,6 @@
+
+  RF Programming Allowed
+
+  RF programming ( Over-The-Air programming ) enables the pager's EEPROM
+  to be reconfigured by sending a page. This can be used to change options
+  and remotely activate or deactivate a pager.

@@ -1,0 +1,10 @@
+     Hebrew Prompts
+
+     If this option is YES then all prompts will be written
+     from right to left.  Use lower case letters to represent
+     the Hebrew equivalents.  The ASCII equivalents for the 
+     Hebrew characters is as follows:
+                (`) = 60H = Aleph
+                (z) = 7AH = Tav
+
+     Thus, in order for a prompt to be 5 Alephs, type in `````.

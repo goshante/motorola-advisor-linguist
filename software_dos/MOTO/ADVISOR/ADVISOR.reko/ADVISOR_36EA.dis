@@ -1,0 +1,23 @@
+word16 fn36EA_00C3(selector ds)
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// Called from:
+//      fn3704_00C8
+// MayUse:  ds:[0..15] ss:[0..15]
+// LiveOut: ax sp
+// Trashed: SCZO ax bp bx cx di dx si sp Top
+// Preserved:
+fn36EA_00C3_entry:
+	word16 wLoc04
+	word16 wLoc02
+l36EA_00C3:
+	fn2FCE_3BF3(0xA71E<16>, ds)
+	fn2FCE_3BF3(0xA736<16>, ds)
+	word16 si_24
+	word16 bp_19 = fn2FCE_3A5D(Mem0[ds:Mem0[ds:0xB022<16>:word16] + 2<i16>:word16], ds, wLoc04, wLoc02, out si_24)
+	Mem29[ds:0xB03C<16>:word16] = 0<16>
+	Mem30[ds:0xB038<16>:word16] = bp_19
+	return Mem33[ds:si_24:word16] + 0x30<16>
+fn36EA_00C3_exit:
+
+

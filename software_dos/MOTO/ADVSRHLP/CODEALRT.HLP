@@ -1,0 +1,10 @@
+
+  Code alerts
+
+  Each of the pager's codes can be programmed to alert with either:
+
+     a. Standard four function alerts ( Individual )
+     b. Unique alerts
+     c. Chirp
+     d. Silently(None)
+

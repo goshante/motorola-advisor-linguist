@@ -1,0 +1,14 @@
+
+  Duplicate Message Detection Buffer Size
+
+  When equipped with Duplicate Message Detection, incoming messages are
+  compared to messages already stored in memory. If a new message is
+  identical to a stored message and received from the same source, it will
+  not be entered into memory. The old message will appear as unread and be
+  preceded by a duplicate message screen. There are 3 duplicate message
+  buffer sizes available ( 120, 240 and 480 characters ). When the
+  Duplicate Message option is selected, the buffer is subtracted from
+  available user memory. The buffer size also determines the maximum
+  message length that is accepted by the pager. This option prevents the
+  depletion of memory capacity due to unnecessary storage of duplicate
+  messages.

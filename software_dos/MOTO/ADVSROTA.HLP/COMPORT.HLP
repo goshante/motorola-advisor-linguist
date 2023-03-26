@@ -1,0 +1,7 @@
+ Communications Port
+
+ This program is designed to communicate with a paging terminal. Select
+ the communication port to which the paging terminal is connected, either
+ via direct connect or through a modem.
+
+ Valid values are COM1: and COM2:.

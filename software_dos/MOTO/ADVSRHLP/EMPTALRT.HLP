@@ -1,0 +1,9 @@
+
+  Memory Empty Alert
+
+  This option indicates which type of alert will sound when 
+  the pager memory is empty.
+
+  If "Voice" is selected, a voice prompt for "Memory Empty Alert"
+  must be programmed in the pager. If no voice prompt is programmed,
+  this option will revert to "Tone".

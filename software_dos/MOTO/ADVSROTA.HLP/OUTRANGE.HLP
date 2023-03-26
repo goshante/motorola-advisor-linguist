@@ -1,0 +1,6 @@
+ Out of Range
+
+ When the pager is located beyond the coverage area of the paging system
+ continuously for the specified length of time, the 'Out-of-Range' screen
+ is displayed. This option easily allows the user to tell if they have
+ left the coverage area.

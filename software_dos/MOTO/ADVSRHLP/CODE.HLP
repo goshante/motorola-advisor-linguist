@@ -1,0 +1,32 @@
+  Code
+
+  The Code of your pager is actually the address of the pager. Depending on
+  the type of pager, it may have the capability of having more than one
+  address. This address is an identifying code.  When a pager recognizes
+  its address, the pager knows that the transmitted message is intended
+  for that pager.
+
+
+
+  For POCSAG pagers the address is 7 digits long.  Valid digits are 0 - 9.
+  POCSAG has several restrictions which concern the codes and their
+  frames.
+                                                                <Page Down> 
+
+.p
+
+
+  The frame for Code A and Code B (if it exists) must be the same.  This
+  is known as Frame 1.  The frame for Code C and Code D (if it exists)
+  must be the same.  This is known as Frame 2. Frame 2 MUST BE greater
+  than Frame 1.
+
+  If you violate any of the restrictions, the program will notify you
+  of the problem. Closer inspection of the codes may indicate a mistyped
+  code. If this does not seem to be the problem, it is important that you
+  contact someone who is knowledgeable about the technical aspects of code
+  assignments.
+
+                                                                  <Page Up> 
+
+

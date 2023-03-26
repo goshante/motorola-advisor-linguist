@@ -1,0 +1,9 @@
+
+  Bell Character Chirp
+
+  When a bell character is received by the pager in the first block of the
+  message, the pager will chirp.  Up to eight bell characters can be sent
+  to the pager to get up to eight chirps.  The chirp sound will be the
+  same as the chirp used in the Reminder Alert option.  A POCSAG chirp
+  is the "BEL" character ($07).  A GSC chirp is a shift followed by a 6
+  combination ($3F, $16 GSC code).

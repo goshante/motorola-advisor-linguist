@@ -1,0 +1,13 @@
+
+
+  F4 - Display the Product Service Bulletin. This will show the Product
+       Service Bulletin in its entirety.
+
+  F6 - Although a possibility of inconsistent operation exists with the
+       pager you are about to program, you may choose to use a Duplicate
+       Buffer size other than zero.
+
+  F8 - Since the possibility of inconsistent operation exists with the
+       pager you are about to program, you may choose to reset the 
+       Duplicate Buffer size to zero to eliminate any inconsistent
+       operation.

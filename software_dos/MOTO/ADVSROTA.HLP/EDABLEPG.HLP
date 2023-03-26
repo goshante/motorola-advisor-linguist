@@ -1,0 +1,8 @@
+ Enable/Disable a Pager
+
+ Enable a pager will return a pager to operable service. After a pager
+ is enabled, it resumes normal operation and can receive and display
+ pages.
+
+ Disable a pager removes a pager from operable service. While disabled,
+ a pager will still receive but won't display pages.

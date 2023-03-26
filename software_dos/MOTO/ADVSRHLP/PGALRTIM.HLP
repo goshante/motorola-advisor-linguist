@@ -1,0 +1,6 @@
+
+    Page Alert Time
+
+    This option specifies the tone alert duration.  Valid selections are
+    2, 4, 6, 8, 10, 15, 20, 30, and 40 seconds.  The default is
+    30 seconds.

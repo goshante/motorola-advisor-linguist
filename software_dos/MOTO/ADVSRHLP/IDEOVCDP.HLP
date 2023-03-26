@@ -1,0 +1,14 @@
+  Ideographic Prompts
+
+  When this option is YES, all prompts will be displayed as ideographic
+  characters.  If the font size is 16x16 Every 2 ASCII characters in a
+  prompt represent 1 ideographic character.  If the font size is 8x16 then
+  each ASCII character entered will be mapped to a character in the
+  Vietnamese character set.
+
+  You can only have either 8x16 size fonts OR 16x16 size fonts for the
+  prompts. For 8x16 prompts a <Shift-In> character (ASCII code 15) has
+  to be entered as the first character of the prompts.
+
+  NOTE: The Group Prompt will always be displayed in English.
+

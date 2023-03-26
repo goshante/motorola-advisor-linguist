@@ -1,0 +1,9 @@
+
+  Vietnamese Custom Prompts
+
+  This screen allows you to customize your Vietnamese prompts.
+
+  You can only have either 8x16 size fonts OR 16x16 size fonts for the
+  prompts. For 8x16 prompts a <Shift-In> character (ASCII code 15) has to be
+  entered as the first character of the prompts.
+  

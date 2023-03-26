@@ -1,0 +1,13 @@
+
+ Active
+
+ This field determines which of the four functions associated with this
+ address are active or inactive. Entering a 'Y' below one of the function
+ numbers indicates that this function is to be active. Entering a 'N' below
+ one of the function numbers indicates that this function is to be inactive.
+ If you select a function as active, you will also select what type of
+ function this will be ( Tone only, Alphanumeric, Numeric ) and whether it
+ is to be Priority or Non-Priority. If you select a function as inactive,
+ the corresponding entries in the Function and Priority columns will be
+ masked off such that you may not enter them.
+

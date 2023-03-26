@@ -1,0 +1,63 @@
+ In general the screen is divided into the following three sections:
+    ษอออออออออออออออออออออออออออออออออออออหออออออออออออออออออออออออออออออป
+    บ MOTOROLA Pager Programming Software บ <Instruction Message Line 1> บ
+    บ ADVISOR                             บ <Instruction Message Line 2> บ
+    บ Page X of Y                         บ <Instruction Message Line 3> บ
+    บ <Menu Pathname>                     บ                              บ
+    ฬอออออออออออออออออออออออออออออออออออออสออออออออออออออออออออออออออออออน
+    บ                                                                    บ
+    บ               < Screen Data Entry / Display Area >                 บ
+    บ                                                                    บ
+    ำฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฝ
+     F1     F2     F3     F4     F5      F6      F7     F8     F9    F10
+     HELP               <brief function key operation>              EXIT
+
+                                                                <Page Down> 
+.P
+
+ F3 - READ a pager
+      This section allows you to read a pager and display its configuration.
+      You may change any of the options, then choose to program a pager, save
+      the configuration to disk, or print the configuration.
+
+ F5 - PROGRAM a single pager
+      This section allows you to select the options you want in your pager.
+      You may then choose to program a pager, save the configuration to disk,
+      or print the configuration.
+
+                                                  <Page Down>    <Page Up> 
+.p
+
+ F6 - PROGRAM sequential pagers
+      This section allows you to select the options you want for a group of
+      pagers. The Inventory Control Number and Pager Codes which you enter*
+      will automatically be incremented each time through the programming
+      sequence. As in programming single pagers, you may change any of the
+      options, program a pager, save the configuration to disk or print the
+      configuration. Pressing F10 or ESC at any of the menus will terminate
+      the sequential programming and return you to the Main menu.
+
+     *NOTE:  Only the codes with individual code types will be incremented.
+
+
+                                                  <Page Down>    <Page Up> 
+.p
+
+ F8 - RETRIEVE a stored pager configuration from disk
+      This section allows you to retrieve one of the pager configurations
+      which you have saved to disk. The Inventory Control Number may be an
+      actual inventory control number of a pager or it may be a name of a 
+      template file used to identify one of the common types of pagers you
+      program.
+
+                                                  <Page Down>    <Page Up> 
+.p
+
+ F9 - SETUP computer configuration
+      This section allows you to setup your computer configuration. You
+      can select the disk drive and path name in which your configuration
+      files are archived, the disk drive and path name in which the HELP
+      files are stored and the communications port that is used to
+      communicate to the Radio Interface Box.
+                                                                  <Page Up> 
+

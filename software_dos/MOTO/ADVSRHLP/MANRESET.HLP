@@ -1,0 +1,10 @@
+
+  Manual Reset
+
+  When this option is selected, the alerts can only be turned off
+  manually by pressing any button on the pager, no automatic alert 
+  shut off will occur.
+
+  This options does not apply to non-page alerts (alarm, lowcell,
+  power-up).  It also does not apply when the pager is in vibrate
+  mode.

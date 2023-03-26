@@ -1,0 +1,7 @@
+  Alternate Sync Word
+
+  If an Alternate Sync Word is entered, then the pager becomes a dualsync
+  pager.  This means that a separate sync word is used for Code C and
+  Code D.  Because a separate sync word is used, the frame of Codes C & D
+  can be <, = , or > the frame of Codes A & B.
+

@@ -1,0 +1,26 @@
+
+  International Prompts
+
+  The pager's standard English prompts can be replaced by prompts in
+  other languages (German, French, Norwegian, Danish, Italian, Swedish,
+  Spanish, Portuguese, Dutch, Finnish, Traditional Chinese, Simplified
+  Chinese and Vietnamese) or by custom prompts.
+
+  In order to select Traditional Chinese, Simplified Chinese or
+  Vietnamese, the pager must contain a CG ROM (Character Generator ROM).
+  Pagers with CG ROMs are available as separate pager models.
+                                                       <Page Down> 
+.p
+
+  If Custom Prompts are selected, another menu will allow you to select
+  your own prompts.  NOTE:  You must exit this field in order to set
+  the prompts to that language.  You may then go back to this field and
+  select "Custom" in order to customize 1 or more prompts in that language.
+
+  For example,  if you want French prompts, but want to customize the
+  power up prompt, select "French", leave this field.  Go back and
+  select "Custom".  Go to the next menu, which, in this case, will 
+  display the French prompts, and enter your custom power up prompt.
+
+                                                      <Page Up> 
+  

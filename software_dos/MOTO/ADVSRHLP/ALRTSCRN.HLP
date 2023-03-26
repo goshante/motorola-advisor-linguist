@@ -1,0 +1,15 @@
+
+  Alternate Alert Screen
+
+  This screen allows you to specify your own alert cadences.  You can only
+  get to this screen by selecting the ALTERNATE ALERTS option.
+
+  Each field in the alert pattern turns the audio on (Note symbol) or
+  off (Bar symbol) for 1/8 of a second.  After 1 second the alert
+  pattern is repeated.
+
+  To indicate audio off, press the spacebar.  To indicate audio on,
+  press any other key.
+
+  The alerts for code addresses 4, 8, 12, and 16 are longer as per
+  the POCSAG standard.

@@ -1,0 +1,5 @@
+ Ideographic Prompts
+
+ When this option is YES, all prompts will be displayed as
+ ideographic characters.  Every 2 ASCII characters in a prompt
+ represent 1 ideographic character.

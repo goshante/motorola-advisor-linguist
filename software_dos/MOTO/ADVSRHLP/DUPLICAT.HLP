@@ -1,0 +1,14 @@
+
+  Duplicate Message Detection
+
+  Any length message can be checked for duplication.  A message duplicates
+  if it is received on the same address, it is the exact same length, and 
+  all characters match or they match to errors in either message.
+
+  Once a message is determined to be a duplicate, the message with the 
+  least number of errors is stored in the same memory location and the 
+  other message is discarded.  Whenever a message is duplicated, the 
+  newest time stamp is used regardless of which message is stored in the
+  memory.
+
+  Duplicate is not performed on Maildrop messages.

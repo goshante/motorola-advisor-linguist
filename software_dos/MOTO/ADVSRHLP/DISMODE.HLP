@@ -1,0 +1,21 @@
+
+    Disable Mode Switch
+
+    This option combines the audible and silent alert functions,
+    providing both a vibrate and tone alert upon receipt of a
+    message.  Some countries require that the pager always provide
+    a tone and vibrate alert simultaneously.
+
+    Choosing "YES" will disable the MODE button, causing the pager
+    to always provide both a tone and vibrate alert (provided
+    the Vibrator option is selected.)  Choosing "NO" allows the
+    user to toggle between the audible mode and the silent (vibrate)
+    mode by pressing the MODE switch.
+                                                                <Page Down> 
+.p
+
+    NOTE:  If "YES" is chosen, the pager will chirp and vibrate when
+    the MODE button is pressed to provide positive indication that
+    the pager is operational.
+
+                                                                  <Page Up> 

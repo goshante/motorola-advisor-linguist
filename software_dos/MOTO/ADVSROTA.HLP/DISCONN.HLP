@@ -1,0 +1,26 @@
+ Disconnect String
+
+ This data entry area must contain the string that the modem sends out to
+ indicate that the connection has been terminated. The ADVISOR OTA software
+ uses this string as a basis for determining that the connection has been
+ terminated. A typical Disconnect String is the string 'NO CARRIER'.
+
+ ษออออออออออออออออออออออออออออออ NOTE ออออออออออออออออออออออออออออออออออป
+ บ Most Hayes and compatible modems accept commands only up to 40 char- บ
+ บ acters. These 40 characters include the Dial Prefix, phone number,   บ
+ บ and commas. If you have more than 40 characters total in these entry บ
+ บ areas, the modem displays the message 'ERROR'. Also if you have any  บ
+ บ characters which the modem considers invalid, the modem will display บ
+ บ the 'ERROR' message.                                                 บ
+ ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+
+ Special hexadecimal characters can also be included by using the
+ hexadecimal format $xx where xx is the two-digit hexadecimal code of the
+ character you want. For example, a carriage return would be entered as
+ $0D. Hexadecimal values MUST be two digits. Leading zeroes must be
+ included.
+
+ Time delays can also be included by using the format \nnn where nnn is
+ the number of hundredths of a second to delay. For example, a time delay
+ of 1/4 second would be entered as \025. Time delay values MUST be three
+ digits. Leading zeroes must be included.

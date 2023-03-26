@@ -1,0 +1,5 @@
+ Show Time/Date Stamp
+
+ If this option is selected, a time stamp will appear after the
+ source during a message read.  The time stamp is the time and date
+ that the message was received and stored.

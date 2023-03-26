@@ -1,0 +1,21 @@
+
+ Functions
+
+ This field determines which type of function will be associated with each
+ address. The different functions are as follows:
+
+                        T - Tone Only
+                        A - Alphanumeric
+                        N - Numeric
+                        I - Ideographic (POCSAG only)
+                        C - Carbon Copy (GSC only)
+                        X - Inactive
+ 
+                                                        <Page Down> 
+.p
+
+ NOTE: Ideographic functions can only be selected when the pager has
+ a CG ROM (Character Generator ROM).  This is available as a separate
+ pager model.
+       
+                                                        <Page Up> 

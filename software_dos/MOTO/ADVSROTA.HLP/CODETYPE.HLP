@@ -1,0 +1,18 @@
+ Code Type
+
+ The pager's codes code can be assigned as Individual, Group Call or
+ DATA Services ( Mail Drop ).
+
+ Pagers equipped with the same group call code can all receive the same
+ messages at the same time.
+
+ Selecting Data Services on a code assigns 4 addresses their own memory.
+ Each address goes into its own slot on line 2 of the display.  Thus,
+ if Code B is selected as Maildrop, then an address 5 page will go into
+ the 5th slot on line 2, an address 6 page will go into the 6th slot on
+ line 2, an address 7 page will go into the 7th slot on line 2, and an
+ address 8 page will go into the 8th slot on line 2.
+
+ Data sent to these addresses will be overwritten by new data sent to the
+ same address. An user can subscribe to Information Services and receive
+ continual updates.

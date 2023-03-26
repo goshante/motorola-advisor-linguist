@@ -1,0 +1,7 @@
+
+     Out of Range Reminder Time
+
+     If the pager is out of range, you will receive an out of range
+     alert.  Every out of range reminder time interval after that
+     the pager will give an out of range reminder (as long as it is
+     out of range.)

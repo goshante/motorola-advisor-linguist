@@ -1,0 +1,8 @@
+
+    Repeat Alert on Playback
+
+    This specifies whether the tone alert cadence will be repeated when
+    the replay button is pressed.
+
+        YES - the alert cadence will precede the voice alert when replayed.
+        NO  - only the voice alert will be heard when replayed.

@@ -1,0 +1,9 @@
+  Numeric Page Format
+
+  This option indicates the format for numeric pages.
+
+     Standard      - All numeric pages will be displayed in the 5x7 font.
+     Ideo Numeric  - All numeric pages will be displayed in the 8x16 font.
+     Mixed Gender  - All numeric pages will be displayed in the 8x16
+                     font if they are mixed-gender pages otherwise they will
+                     be displayed in the 5x7 font.

@@ -1,0 +1,8 @@
+
+  Disable All Pager Alerts
+
+  The LED, audio, and vibrator alerts are muted with this option.
+  This options overrides all other alert options and will disable
+  the user from manually setting alerts via the pager's set alerts
+  menu.
+

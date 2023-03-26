@@ -1,0 +1,10 @@
+ Mem Alerts
+
+ This option allows you to select the type of alert when the pager
+ is in silent (MEM-O-LERT) mode.
+
+      Vibrate         - Pager will vibrate for 12 seconds
+      Chirp & Vibrate - Pager will chirp once and vibrate for 12 seconds
+      None            - Pager will neither chirp nor vibrate.
+
+      NOTE: In each case, the LED will flash.

@@ -1,0 +1,41 @@
+  SETUP COMPUTER CONFIGURATION
+
+
+  The Setup Computer Configuration Screen allows you to change the Default
+  Path Names to the Archive of Files directory, the Help Files directory,
+  and the Serial Port used for the Universal Interface Box.  The Default
+  Path Names may be edited or rewritten. A drive letter followed by a colon
+  is encouraged. If no drive letter is given, your files may not be located
+  where you expect them to be. The Serial Port (COM1 or COM2) may be selected
+  with the spacebar.
+
+                                                                <Page Down> 
+.P
+  Archive Pathname  - Leads to the directory of the Personality files.
+
+  Help Pathname     - Leads to the directory of the Help Files.
+
+  Software Password - To protect your ADVISOR Programming Software from
+                      unauthorized use, you may put password protection
+                      on the software. Just as you selected to use password
+                      protection while running the SETUP program, you can
+                      now remove the need for a password to run this program
+                      or you can change the password to something new.  If
+                      you leave this area blank, you will not need to enter
+                      a password to execute this program.
+
+                                                  <Page Down>    <Page Up> 
+.p
+
+  Be sure to save the new configuration before exiting.
+
+  F8 (SAVE) - To save the current setup, press the F8 key.  If the Computer
+  Configuration is not saved, the current setup will only be valid for the
+  current execution.
+
+
+
+
+
+                                                                  <Page Up> 
+

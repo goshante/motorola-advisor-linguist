@@ -1,0 +1,6 @@
+ Enable Set Alerts Screen
+
+ If this option is selected, the pager will allow the user
+ to customize his own alert settings.  If this option is not
+ selected, the alert settings which are programmed into the
+ pager are permanent and thus cannot be changed by the user.

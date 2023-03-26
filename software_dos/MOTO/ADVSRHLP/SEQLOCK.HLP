@@ -1,0 +1,12 @@
+
+  Sequential Lockout
+
+  For wide area coverage some systems use multiple transmitters located
+  throughout the coverage area. By transmitting the pager information
+  sequentially from one station and then the next and so on, the likelihood
+  that the pager will receive the information is high. In such a system
+  a pager may receive the same information more than once and alert for
+  each time. By setting a sequential lockout time, the pager will ignore
+  duplicate transmissions within that time period and will not alert for
+  each transmission.
+

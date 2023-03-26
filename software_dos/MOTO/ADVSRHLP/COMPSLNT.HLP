@@ -1,0 +1,8 @@
+
+  Completely Silent in 'MEM'
+
+  Choosing this option causes the pager to be completely silent while in
+  'MEM-O-LERT' mode. The pager will not chirp when there is an incoming
+  message or when there are unread messages in memory.
+  
+

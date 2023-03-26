@@ -1,0 +1,3 @@
+ Data Bits
+
+ The number of data bits per byte. Valid values are 7 and 8.

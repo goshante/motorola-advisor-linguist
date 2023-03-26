@@ -1,0 +1,14 @@
+
+  Delete Decoding Envelope
+
+  During normal pager operation when a page is received, an 
+  envelope is displayed on the pager to indicate to the user
+  that the page is being decoded. During the period of a page 
+  being decoded the display is frozen and any button presses
+  will be ignored.
+  When the "Delete Decoding Envelope" option is enabled the 
+  envelope is not displayed when a page is received. This is 
+  useful when the user expects to receive short pages and 
+  does not want to see the envelope flicker on the screen. 
+  It is not recommended that this option be enabled if the 
+  majority of received pages are of a long duration.

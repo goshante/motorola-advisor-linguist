@@ -1,0 +1,4 @@
+ Parity
+
+ This is the parity checking method to be used. Valid values are None,
+ Even and Odd.

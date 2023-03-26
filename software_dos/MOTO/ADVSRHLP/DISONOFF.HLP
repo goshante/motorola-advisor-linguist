@@ -1,0 +1,11 @@
+
+    Disable On/Off Switch
+
+    This option enables the user to disable the on/off switch.
+    Some countries require that the pager not be able to be turned
+    off.  Choosing "YES" will change the pager to an "always on"
+    state, and can only be turned off by removing the battery.
+
+    NOTE:  If this options is selected, the pager will chirp and/or
+    vibrate when the ON/OFF button is pressed to provide positive
+    indication that the pager is operational.

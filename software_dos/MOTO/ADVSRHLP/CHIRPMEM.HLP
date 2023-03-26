@@ -1,0 +1,7 @@
+
+  Chirp in MEM
+
+  When the pager receives a page in the 'MEM-O-LERT' mode, a chirp (short
+  beep) will sound. This allows you to receive messages and alerts in a
+  discrete manner without full alerts.
+

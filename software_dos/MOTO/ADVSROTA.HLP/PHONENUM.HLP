@@ -1,0 +1,37 @@
+ Phone Number
+
+ This is the phone number of the alphanumeric page entry port of your
+ paging terminal. The numbers and characters which you enter are passed
+ to your Hayes-compatible modem for processing. The entire Dial command
+ that is sent to a Hayes-compatible modem consists of the Dial Prefix +
+ Phone Number + Dial Suffix. If you need to include special characters
+ to direct your modem to perform special functions while dialing, you
+ must include these characters as part of the Phone Number. For complete
+ information on the special modem commands, consult the User's manual for
+ your modem.
+
+ For example, if you use a phone that requires a 9 to access an outside
+ line, wait two seconds and then dial the number, you would enter the
+ number as 9,,13055551212 or as 9,,1-305-555-1212 since Hayes-compatible
+ modems ignore dashes. Each comma tells the modem to delay an amount of
+ time specified in the modem register S8.
+
+ ษออออออออออออออออออออออออออออออ NOTE ออออออออออออออออออออออออออออออออออป
+ บ Most Hayes and compatible modems accept commands only up to 40 char- บ
+ บ acters. These 40 characters include the Dial Prefix, phone number,   บ
+ บ and commas. If you have more than 40 characters total in these entry บ
+ บ areas, the modem displays the message 'ERROR'. Also if you have any  บ
+ บ characters which the modem considers invalid, the modem will display บ
+ บ the 'ERROR' message.                                                 บ
+ ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+
+ Special hexadecimal characters can also be included by using the
+ hexadecimal format $xx where xx is the two-digit hexadecimal code of the
+ character you want. For example, a carriage return would be entered as
+ $0D. Hexadecimal values MUST be two digits. Leading zeroes must be
+ included.
+
+ Time delays can also be included by using the format \nnn where nnn is
+ the number of hundredths of a second to delay. For example, a time delay
+ of 1/4 second would be entered as \025. Time delay values MUST be three
+ digits. Leading zeroes must be included.

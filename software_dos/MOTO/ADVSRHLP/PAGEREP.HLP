@@ -1,0 +1,6 @@
+
+     Play Message How Many Times?
+
+     This option allows the user to chose the number of times the voice
+     alert will be repeated until reset.  Valid selections are 1-5.
+     The default is 3 times.

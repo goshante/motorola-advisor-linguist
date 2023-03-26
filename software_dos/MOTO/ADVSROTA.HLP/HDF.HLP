@@ -1,0 +1,7 @@
+ History Dump File
+
+ The history dump file (HDF) serves as a "garbage can" to hold messages
+ which would normally be deleted to make room for an incoming message.
+ Thus, the user has access to more than 20 personal messages.
+
+ The HDF will appear in the 19th message slot on line 2 of the display.

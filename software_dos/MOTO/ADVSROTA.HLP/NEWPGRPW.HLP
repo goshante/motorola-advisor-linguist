@@ -1,0 +1,9 @@
+ New Pager Password
+
+ This field is for the entry of a new password that you are going to
+ program to the pager. The new password will replace the existing one
+ and will become effective after you send out the OTA page. You need
+ to use this password in a place where it is required.
+
+ The Pager Password is 10 characters long and may consist of any
+ combination of A-Z, 0-9 and space.

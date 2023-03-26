@@ -1,0 +1,30 @@
+ Interpage Delay and Interpage Disconnect
+
+ When the options you have selected require more than one page to be sent
+ to a pager, it is imperative that the pager receives a page, reprogram the
+ pager and then reset itself before another page is sent to it. It is also
+ imperative that the pager receives the pages in the order in which they
+ were sent by the personal computer, especially when dealing with changes
+ to the pager codes and coding information.
+
+ To provide for such a facility, the program allows you to set an Interpage
+ Time Delay. The value which you assign to this parameter should be the
+ total time ( in seconds ) from when a page is accepted by the paging
+ terminal until it is transmitted by the paging terminal. This delay must
+ be used to guarantee that each page will be received and processed by the
+ pager before another page is sent to the pager. If this delay is too short,
+ the pager may not receive all the pages and undesirable results will
+ occur.
+
+ It is also important to select the proper setting for the Interpage
+ Disconnect parameter. Depending on your system configuration, you may
+ have to disconnect the line during the delay period between pages. Typical
+ paging terminals allow for a maximum delay of 4 seconds between pages
+ before automatically disconnecting the communication link. This delay
+ limit is usually known as an Idle Line Timeout. If your interpage delay
+ is less than the paging terminal idle line timeout, you may not want to
+ disconnect or hangup the line between pages. However, if your interpage
+ delay is greater than the paging terminal idle line timeout, you will
+ have to disconnect the line between pages. Failure to disconnect the line
+ between pages in this last case will result in the paging terminal
+ initiating a forced disconnect and this program will report an error.

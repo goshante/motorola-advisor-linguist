@@ -1,0 +1,6 @@
+    Old Atlantis
+
+    This option tells if the pager contains the old Atlantis chip.
+
+    Different constants are used to calculate the synthesizer values
+    when this option is yes.

@@ -1,0 +1,15 @@
+
+ Priority
+
+ This field determines if each pager address has Priority Override or not.
+
+ If the address is not active ( 'X' in the Function field ), the
+ corresponding entry in the Priority field is masked off ( '.' in the
+ Priority field ).
+
+ When an address has Priority Override, an incoming page will always alert
+ audibly ( even if the pager is in the 'MEM-O-LERT' mode). 
+ Thus, any function being performed when a Priority page is received 
+ will be interrupted.  Priority Override can be selected on any of 
+ the pager's addresses.
+

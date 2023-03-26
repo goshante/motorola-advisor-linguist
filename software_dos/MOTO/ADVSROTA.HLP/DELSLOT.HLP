@@ -1,0 +1,6 @@
+ Delete Slot Number
+
+ When this option is selected the slot number and the colon will not
+ appear at the beginning of a message when it is being read.  Thus the
+ first line of a message will be formatted for 19 (instead of 16)
+ characters.

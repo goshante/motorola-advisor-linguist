@@ -1,0 +1,12 @@
+ Coding format
+
+ The Coding Format is actually the signalling format which is used to
+ communicate with a pager. There are two Coding Formats to choose from,
+ namely GSC and POCSAG. If you select POCSAG, you must specify the baud
+ rate (POCSAG 512, POCSAG 1200 or POCSAG 2400).  The coding format
+ selected must match the coding format of the transmitting system.
+ In other words, a GSC pager must be used on a system transmitting GSC
+ and a POCSAG pager must be used on a system transmitting POCSAG.
+
+ Also, when POCSAG is selected, the baud rate must match the baud rate
+ transmitted by the POCSAG system.

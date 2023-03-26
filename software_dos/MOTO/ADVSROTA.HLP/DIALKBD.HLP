@@ -1,0 +1,10 @@
+  F4  - This key allows you to dial out through a modem and remain connect
+        until you finish your transactions and use F6 to disconnect it. Your
+        Paging Terminal needs to support Dial/Direct configuration if you
+        plan to use this feature.
+
+  F6  - This key allows you to disconnect the modem line manually.
+
+  F9  - Pressing this key will take you back to Setup menu.
+
+  F10 - Pressing this key will allow you to go back to top menu.

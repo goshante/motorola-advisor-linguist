@@ -1,0 +1,8 @@
+
+  Printer Format
+
+  Messages sent to the printer can be formatted for either 20, 40,
+  60, 80 characters per line.  If "None" is selected, then a linefeed
+  character will only be sent to the printer between the message and the
+  time stamp.  A linefeed is sent to the printer at the end of the message,
+  and on some models a linefeed is also sent before the message.

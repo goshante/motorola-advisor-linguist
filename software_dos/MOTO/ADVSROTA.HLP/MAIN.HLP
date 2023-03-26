@@ -1,0 +1,47 @@
+ In general the screen is divided into the following three sections:
+ ษอออออออออออออออออออออออออออออออออออหออออออออออออออออออออออออออออออออออออป
+ บMOTOROLA Pager Programming Softwareบ <Instruction Message Line 1>       บ
+ บADVISOR Over-the-Air               บ <Instruction Message Line 2>       บ
+ บPage X of Y                        บ <Status/Error message Line 1>      บ
+ บ<Menu Pathname>                    บ <Status/Error message Line 2>      บ
+ ฬอออออออออออออออออออออออออออออออออออสออออออออออออออออออออออออออออออออออออน
+ บ                                                                        บ
+ บ                < Screen Data Entry / Display Area >                    บ
+ บ                                                                        บ
+ ำฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฝ
+   F1     F2     F3     F4     F5      F6      F7     F8      F9     F10
+   HELP                <brief function key operation>               EXIT
+
+ F3 - RETRIEVE an OTA Archive File
+      This option allows you to retrieve an OTA archive file as the
+      default selections and values.
+
+ F4 - PROGRAM a pager
+      This option allows you to select and change a pager's options and
+      configuration.
+
+ F5 - SEND a message
+      This option allows you to send a message to a pager.
+
+ F6 - CHANGE Password of a pager
+      This option allows you to change a pager's password. The new password
+      will become effective thereafter.
+
+ F7 - RETRIEVE a HC Configuration File
+      This option allows you to read in a Hard-Contact archive file saved
+      by the Hard-Contact Programmer as a default. All the values will not
+      be displayed until selected.
+
+ F8 - ENABLE/DISABLE a pager
+      This option allows you to enable or disable a pager. Enable a pager
+      will return a pager to operable service. After a pager is enabled,
+      it resumes normal operation and can receive and display pages.
+      Disable a pager removes a pager from operable service. While disabled,
+      a pager will still receive but won't display pages.
+
+ F9 - SETUP computer configuration
+      This option allows you to setup your computer configuration. You
+      can select the disk drive and path name in which the HELP files
+      are stored, the configuration of the communications port which
+      is used to communicate to a Paging Terminal, modem control commands
+      and some system environment parameters.

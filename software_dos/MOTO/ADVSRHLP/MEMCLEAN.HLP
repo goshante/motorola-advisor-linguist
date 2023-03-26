@@ -1,0 +1,9 @@
+
+  Memory Cleanup
+
+  All unlocked, read messages, maildrop messages and the history
+  dump file will be deleted when the pager is turned off.  Locked
+  messages, unread messages, and the messages stored in the Personal
+  Message File will be retained.
+
+  NOTE:  Memory Cleanup is not available without RETAIN MEMORY.

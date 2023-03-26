@@ -1,0 +1,5 @@
+ Retain Memory
+
+ When this option is selected, all messages will be saved
+ when the pager is turned off.  If this option is not selected
+ then all messages will be deleted when the pager is turned off.

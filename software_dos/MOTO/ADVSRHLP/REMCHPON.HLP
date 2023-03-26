@@ -1,0 +1,11 @@
+
+
+  Reminder Alert
+
+  When this option is selected and there is an unread message in the pager,
+  the pager will generate a chirp or vibrate every two minutes to remind the
+  user to read the unread message/messages.
+  Reminder alert is not available on maildrop messages.
+
+
+

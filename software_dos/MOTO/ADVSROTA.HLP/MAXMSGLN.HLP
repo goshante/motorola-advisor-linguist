@@ -1,0 +1,11 @@
+ Maximum Message Length
+
+ This is the maximum message length which your paging terminal can transmit
+ to a pager. If your paging terminal is set to accept different length
+ messages for the various code types of pagers ( GSC or POCSAG ), you must
+ set this value to the shorter message length. Valid values are in the
+ range of 40 to 2000 characters.
+
+ It is important to note that the longer the message your paging terminal
+ allows for, the less number of pages will need to be sent when changing
+ options and reprogramming pagers.

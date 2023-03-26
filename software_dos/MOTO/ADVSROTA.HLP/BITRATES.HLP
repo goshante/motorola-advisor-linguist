@@ -1,0 +1,9 @@
+ Bit Rate
+
+ This is the baud rate or bits per second at which the communications
+ port will be communicating. Valid speeds are 110, 150, 300, 600,
+ 1200, 2400, 4800 and 9600.
+
+ If communicating through a modem, you must set this value to match the
+ operating speed of the modem. Check the instruction manual which was
+ supplied with your modem for bit rate settings.

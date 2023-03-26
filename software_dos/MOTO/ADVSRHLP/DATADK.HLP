@@ -1,0 +1,17 @@
+               F1, F2..................... Help
+               F6......................... Clear codeplug data to empty
+               F10 or ESC................. Exit to Main menu
+               ENTER...................... Advance to next data area
+               TAB or DOWN Arrow ........ Advance to next data area
+               Shift+TAB or UP Arrow .... Backup to previous data area
+               HOME....................... Move first data area
+               END........................ Move to last data area
+               Page UP.................... Backup to previous menu
+               Page DOWN.................. Advance to next menu
+               LEFT Arrow................. Move cursor left
+               RIGHT Arrow................ Move cursor right
+               BACKSPACE.................. Move cursor left & delete character
+               DELETE..................... Delete character under cursor
+
+
+

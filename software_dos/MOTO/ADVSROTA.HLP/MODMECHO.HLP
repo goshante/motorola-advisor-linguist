@@ -1,0 +1,11 @@
+ Modem Echo Commands
+
+ This parameter indicates whether your modem will echo commands. Valid
+ values are Yes and No. This parameter must be set to the same value that
+ you have configured your modem with its dip switches. By enabling the
+ command echo, some simple errors can be detected quickly by the program.
+ When the ADVISOR OTA software issues the command to dial a telephone
+ number, the command echo quickly recognizes if the modem is properly
+ connected. If, for some reason, the cable to the modem was disconnected
+ or the modem was turned off, the program immediately recognizes the
+ condition due to the lack of a command echo.

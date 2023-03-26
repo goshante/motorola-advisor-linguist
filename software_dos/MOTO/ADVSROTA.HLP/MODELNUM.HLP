@@ -1,0 +1,26 @@
+ Model Number
+
+ The pager Model Number is used by the ADVISOR OTA software to determine
+ the type of pager you are programming. Entering an incorrect Model Number
+ could cause the pager to be improperly programmed and will yield
+ undesirable results. This will require you to recall the pager from the
+ field and reprogram it using the ADVISOR Alphanumeric Programming Software
+ and hard-contact interface box.
+
+ In standard Motorola Pager Number format, the 8th character defines the
+ coding format for the pager. For example: 
+
+          Model Number : A03KLB5662AA
+
+             char  1  A
+                   2  0
+                   3  3
+                   4  K
+                   5  L
+                   6  B
+                   7  5
+                   8  6 <--    6 : GSC;  1,3,9 : POCSAG 2400/1200/512
+                   9  6       
+                  10  2
+                  11  A
+                  12  A                          

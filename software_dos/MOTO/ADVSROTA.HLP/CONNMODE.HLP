@@ -1,0 +1,44 @@
+ Connection Mode
+
+ This is the mode in which your personal computer is connected to the paging
+ terminal. Valid values are Direct, Dial and Dial/Direct.
+
+ Direct Connect is when your personal computer is connected directly to your
+ paging terminal via a cable. In such a case, the personal computer and
+ paging terminal are usually located in the same room or nearby.
+
+ A Dial-up or Dial/Direct connection is when your personal computer and
+ paging terminal are connected via phone lines using modems. If your
+ personal computer is connected in either of these manners, you need a
+ Hayes-compatible modem. The modem may be an external modem connected to
+ one of your asynchronous communications ports or an internal modem
+ installed in your personal computer.
+
+ A Dial connection should be selected when you plan to dial into your
+ paging terminal every time you want to program a pager. After transmission
+ of the page(s) needed to program a pager, the program will hang up and
+ disconnect the line. This connection mode is advantageous when you
+ infrequently need to program pagers and you may want to use your personal
+ computer for other tasks. If you occasionally program a pager with the
+ ADVISOR OTA Software, then program a pager with the ADVISOR hard-contact
+ programmer, then use your computer for some other task, etc. - you
+ certainly do not need to maintain a connection with your paging terminal.
+
+ A Dial/Direct connection is a mode which allows you to dial into the paging
+ terminal and remain connected even after you have transmitted the page(s)
+ needed to program a pager. Physical disconnection or hang-up of the line
+ does not occur until the ADVISOR OTA software instructs the modem to hang
+ up. The paging terminal then realizes that it has lost carrier and hangs up
+ also. In an ordinary Dial connection, the paging terminal would hang up and
+ disconnect the line immediately after the ADVISOR OTA software has
+ indicated it has transmitted all the pages it needed to reprogram a pager.
+ With the Dial/Direct connection mode, the paging terminal realizes the
+ ADVISOR OTA software has indicated it is done with one pager, but it does
+ not disconnect the line. This connection mode is advantageous when you have
+ a group of pagers which need to be programmed. With this connection mode,
+ the ADVISOR OTA program will dial and connect with the paging terminal once,
+ and allow programming of a group of pagers without disconnecting between
+ each set of programming pages. In this case, you incur only one connection
+ and associated charge, as opposed to multiple charges when hanging up and
+ redialing. Your paging terminal must support a Dial/Direct Connect
+ configuration if you plan to use this feature.

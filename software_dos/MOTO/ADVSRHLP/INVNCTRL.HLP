@@ -1,0 +1,25 @@
+  Inventory Control Number
+
+  The Inventory Control Number is an identification number which you assign
+  to the pager. This number is stored in the pager. Unlike the Serial Number
+  of the pager, this number can be changed as per your needs. It is also
+  important to note that the data entered in this field is used to create
+  the filename of the archive file for this pager. Therefore, it is important
+  to enter a unique Inventory Control Number for each pager if you are saving
+  each pager configuration to disk.
+
+                                                                <Page Down> 
+.p
+  If you find yourself programming many of your pagers with similar or
+  almost identical configurations, you may want to create template files
+  and save them on disk. By entering a descriptive name in the Inventory
+  Control Number data area, you can save these template files with names
+  that are meaningful to you. When it comes time for you to program one of
+  those type of pagers, you can simply recall that template file and change
+  only those codes or options you need. At that point you should also
+  change the Inventory Control Number to reflect the proper tracking number
+  which you wish to assign to the pager. You should then save that file as
+  one of your archive files.
+
+                                                                  <Page Up> 
+

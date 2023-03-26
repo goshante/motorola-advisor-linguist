@@ -1,0 +1,6 @@
+
+  Auto Alarm Turn On
+
+  If the alarm is set and the pager is off when the alarm time is 
+  reached, the pager will automatically turn on, go through the 
+  power-up sequence, then alert for the alarm.

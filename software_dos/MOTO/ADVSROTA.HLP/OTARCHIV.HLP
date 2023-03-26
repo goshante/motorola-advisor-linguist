@@ -1,0 +1,15 @@
+ STORE selections to an OTA archive file
+
+ This feature allows you to save your selections to a file for future
+ usage. You can retrieve it and send out by using Retrieve option from the
+ top menu or you can use it to update your Hard-Contact configuration file
+ for the same pager.
+
+ You are allowed to have up to 10 characters in the file name. The file
+ will be stored in a default directory (where you are now) by the name
+ entered here plus a period inserted after the 8th character if any.
+
+ For example: 
+
+     The name entered                 :  SAMPLETEST
+     The name shown in DOS directory  :  SAMPLETE.ST

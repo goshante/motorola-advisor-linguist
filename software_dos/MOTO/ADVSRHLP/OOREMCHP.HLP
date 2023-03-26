@@ -1,0 +1,6 @@
+
+    Audible Out of Range Reminder
+
+    The Out of Range Reminder is indicated by a flashing of the LED.
+    If this option is selected, the Out of Range Reminder LED will be
+    accompanied by a chirp.

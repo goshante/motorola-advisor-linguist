@@ -1,0 +1,5 @@
+    Data Over Sync
+
+    When in batch mode and a data page exceeds the 16 block limit of
+    a batch size, every 17th block will either be a sync word (if this
+    option is YES) or a data block (if this option is NO).

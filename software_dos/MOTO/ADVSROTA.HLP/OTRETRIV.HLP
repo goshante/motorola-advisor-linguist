@@ -1,0 +1,11 @@
+ RETRIEVE a stored pager OTA archive file from disk
+
+ The Retrieve a Stored OTA File screen allows you to enter the file name
+ of a pager archive file you have previously saved to the disk. The file
+ needs to be stored at the same directory as the OTA program located. You
+ don't need to enter the '.' for the file extension when entering the file
+ name. For example: 
+
+     The name shown in DOS directory  :  SAMPLETE.ST
+     The name entered                 :  SAMPLETEST
+

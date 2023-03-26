@@ -1,0 +1,14 @@
+ Individual Alerts / Maildrop Alerts
+
+ These options allow you to select the alert length and volume for
+ individual and maildrop messages.
+
+        Loud     - loudest volume
+        Soft     - softest volume
+        Long     - 12 second alert
+        Short    - 2 second alert
+        Escalert - 2 seconds at softest volume, 2 seconds at 
+                   middle volume, 8 seconds at loudest volume
+        Chirp    - 1/8 second alert
+        No Alert - No visual or audible alert
+

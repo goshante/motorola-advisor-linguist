@@ -1,0 +1,9 @@
+ System Password
+
+ This is a 6 character alphanumeric password used by automatic remote
+ entry devices when communicating to a paging terminal. Depending on
+ the requirements of the paging terminal, a system password or caller
+ id might be required before allowing automatic remote entry of
+ messages. If this is the case, you must enter the system password
+ in this data entry area. If no system password is required, leave this
+ entry area blank.

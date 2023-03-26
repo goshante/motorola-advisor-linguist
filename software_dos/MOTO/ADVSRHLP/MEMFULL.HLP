@@ -1,0 +1,8 @@
+
+  Memory Full Indication
+
+  When there are 16 messages or more than 1984 characters contained in
+  memory, the pager displays a 'Memory Full' screen. This warns the user
+  that an existing message may be pushed out of memory by the next incoming
+  message.
+

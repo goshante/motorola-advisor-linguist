@@ -1,0 +1,9 @@
+
+  Low Battery Alert
+
+  This option indicates which type of alert will sound when a
+  low battery condition is detected.
+
+  If "Voice" is selected, a voice prompt for "Low Battery Alert"
+  must be programmed in the pager. If no voice prompt is programmed,
+  this option will revert to "Tone".

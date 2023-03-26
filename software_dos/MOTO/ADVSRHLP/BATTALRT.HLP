@@ -1,0 +1,8 @@
+
+  Low Battery Alert
+
+  When a low battery condition is detected, the low battery screen will 
+  always be shown on line 3 of the display.
+
+  With this option selected, the pager will also give a low level audio
+  alert for 12 seconds in the audio or vibrate (mem) mode.

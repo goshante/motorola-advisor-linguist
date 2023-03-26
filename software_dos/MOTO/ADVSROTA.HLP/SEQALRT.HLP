@@ -1,0 +1,5 @@
+ Alert After Lockout Period
+
+ When this option is selected, the pager will only alert at the end of
+ the sequential lockout period.  Without this option selected, the pager
+ will alert when the message is first received.

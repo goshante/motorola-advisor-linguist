@@ -1,0 +1,6 @@
+ Default Character Type
+
+ This option allows the pager to be programmed to interpret the default
+ character type. Depending on the default character setting, the pager
+ will decode the first printable character it receives as either
+ TIS (Thai) or ASCII (English).

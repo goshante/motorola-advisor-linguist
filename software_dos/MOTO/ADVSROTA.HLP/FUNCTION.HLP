@@ -1,0 +1,15 @@
+ Functions
+
+ This field determines which type of function will be associated with each
+ address. The different functions are as follows:
+
+                        T - Tone Only
+                        A - Alphanumeric
+                        N - Numeric
+                        I - Ideographic (POCSAG)
+                        C - Carbon Copy (GSC)
+                        X - Inactive
+ 
+ NOTE: Ideographic functions can only be selected when the pager has
+ a CG ROM. Also, do not change the function of the OTA address to Tone,
+ Numeric, or Inactive. Otherwise, OTA will not work.

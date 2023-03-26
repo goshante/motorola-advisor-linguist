@@ -1,0 +1,11 @@
+  Urgent and time stamp prompts  
+
+  These options allow you to select characters for
+
+     U - urgent messages
+     AM - ante meridiem(Lat.);time stamp
+     PM - post meridiem(Lat.);time stamp
+
+  If you want to change these characters,put instead codes of "U"($55),
+  "A"($41),"M"($4D) and "P"($50) codes of appropriate characters from 
+  the National 7-bit table.

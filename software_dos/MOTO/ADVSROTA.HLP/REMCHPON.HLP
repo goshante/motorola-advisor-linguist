@@ -1,0 +1,9 @@
+ Reminder Chirp
+
+ When this option is selected and there is an unread message in the pager,
+ the pager will generate a chirp (if the pager is in audible mode), chirp
+ and vibrate (if the pager is in chirp-in-silent mode), or just vibrate 
+ (if the pager is in silent mode) every two minutes to remind the user
+ to read the unread message/messages.  
+
+ NOTE:  This option does not apply to mail drop messages.

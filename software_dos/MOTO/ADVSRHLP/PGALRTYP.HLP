@@ -1,0 +1,13 @@
+
+   Page Alert Type
+
+   This indicates what type of alert will sound for each source
+   when a page from that source is received.
+                T (tone)  - a tone alert will sound
+                B (both)  - first a tone alert will sound,
+                            followed by a voice alert.
+
+   NOTE: If 'B' is selected, a voice alert for that source must
+   be programmed in the pager.  For example, if you select 'B' for source
+   1, a voice prompt must be programmed for MESSAGE 1.
+

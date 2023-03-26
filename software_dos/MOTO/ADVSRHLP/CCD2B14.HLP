@@ -1,0 +1,15 @@
+
+  14 Bit Decoding Method
+
+  There are two decoding methods Advisor CCD supports:
+        1. 2-Byte Method
+        2. 14-Bit Method
+
+  It requires 2 ASCII bytes to represent a Chinese character say High Byte
+  and Low Byte.
+
+  For a 2-Byte Method, the Advisor CCD decodes High Byte first then Low 
+  Byte. For a 14-Bit Method, the Advisor CCD decodes reversely, i.e. Low 
+  Byte first then High Byte.
+
+

@@ -1,0 +1,8 @@
+
+     |-------------|
+     | RF = 3q + k |
+     |-------------|
+
+RF - Receive frequency
+q  - Main quartz frequency
+k  - Secondary quartz (Usualy 17.9 MHz)

@@ -1,0 +1,11 @@
+
+  Unread Message Alert Time
+
+  The unread message indicator causes the LED to periodically flash 
+  until the message has been read. This serves as a reminder that an 
+  unread message exists.
+
+  This option specifies the period of time between reminders.  Valid
+  selections are 'none', 30 seconds, 60 seconds, 2 minutes, and 5 minutes. 
+  The default setting is 2 minutes. If 'none' is selected, there will
+  be no unread message indicator.

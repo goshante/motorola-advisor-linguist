@@ -1,0 +1,9 @@
+
+  Reminder Chirp in MEM
+
+  Choosing this option causes the pager to remind you when there are unread
+  pages in memory. A chirp will sound every 2 minutes in the 'MEM-O-LERT'
+  position if there are unread pages. The reminder alert will accelerate to
+  every 15 seconds when the pager's memory is full of unread messages.
+  
+

@@ -1,0 +1,6 @@
+ CarrierWaitT: Carrier Wait Time Before Abort
+
+ This is the time the OTA program will wait for a modem connection after
+ dialing out.
+
+ The unit is Seconds.

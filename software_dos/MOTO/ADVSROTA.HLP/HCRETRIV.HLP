@@ -1,0 +1,7 @@
+ RETRIEVE a stored pager configuration from disk
+
+ The Retrieve a stored pager screen allows you to enter the Inventory
+ Control Number of a pager configuration which you have previously saved
+ to disk. The Inventory Control Number may be an actual inventory control
+ number of a pager or it may be a name of a template file used to identify
+ one of the common types of pagers you program.

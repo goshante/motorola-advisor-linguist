@@ -1,0 +1,9 @@
+
+  Power-up Alert
+
+  This option indicates which type of alert will sound when the
+  pager is turned on.
+
+  If "Voice" is selected, a voice prompt for "Power-up Alert"
+  must be programmed in the pager. If no voice prompt is programmed,
+  this option will revert to "Tone".

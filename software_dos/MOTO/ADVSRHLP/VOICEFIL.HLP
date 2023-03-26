@@ -1,0 +1,31 @@
+
+     Edit Voice Pill Menu
+
+     This menu allows you to select voice files for your voice prompts.
+     You may only edit fields where a voice prompt is required.  For
+     example, if you selected Power-up Alert = Tone and Low Battery Alert
+     = Voice, then you may only enter a prompt for the Low Battery Alert.
+     Similarly, if the page alert types for your codes are set up as 
+     follows:  Code A="TTBT"; Code B="TBTT"; Code C="TBBT"; Code D="TTTT",
+     you will be required to enter a voice prompt for Message 2 and 
+     Message 3, but won't be able to enter one for Message 1 and Message 4.
+
+     If you don't enter a voice prompt where one is required, the 
+     corresponding prompts will revert back to tone.
+                                                                <Page Down> 
+.p
+     A "------------" in an entry field indicates a pre-recorded voice
+     prompt.  If you try to program a pager using a pre-recorded voice
+     prompt, the pager must have the same length prompt in the same 
+     location in the voice pill.  Thus, you cannot clone a pager using
+     its existing pre-recorded messages unless the 2nd pager has the 
+     same pre-recorded messages.
+
+     You will only be allowed to edit this menu if all of the following
+     conditions are true: the pager contains a voice pill, the PC contains
+     the Sound Blaster card (and it was properly installed) and voice
+     prompts are required.
+
+                                                                  <Page Up> 
+
+

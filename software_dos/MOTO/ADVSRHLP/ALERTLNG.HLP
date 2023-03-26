@@ -1,0 +1,8 @@
+
+  Alert Length
+
+  This option allows you to select the amount of time an alert will
+  continue when an incoming page is received. This gives you the flexibility
+  of choosing an extremely short alert of 2 seconds or longer alerts up to
+  12 seconds. You may also select to have the pager continuously alert until
+  the alert is manually reset by pressing one of the buttons on the pager. 

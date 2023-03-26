@@ -1,0 +1,12 @@
+
+  Alpha Beep On Bad Data
+
+  With this option selected, when the pager detects an error in the incoming
+  message, the message is stored and the pager alerts as usual.  When the
+  message is read the errored characters will be displayed between special
+  non-printable "error string delimiter" characters.
+
+  If this option is not selected, when the pager detects an error in the
+  incoming message, the pager discards the entire message and does not
+  alert.
+

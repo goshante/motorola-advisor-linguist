@@ -1,0 +1,11 @@
+
+  Page Slide-In/Continue Read
+
+  When a message is being received, an envelope will appear on the display.
+  If the incoming message is not a priority page, then after it has been
+  completely received, the pager will revert back to the last screen shown
+  before the message was received.  If the message is a priority page, then
+  the pager will revert to the status screen.
+
+  If this option is not selected, the pager will always revert to the status
+  screen.

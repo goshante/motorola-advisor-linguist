@@ -1,0 +1,6 @@
+ Multiple Pages in One Page
+
+ A single message can be sent with embedded <ESC> characters ($1B).
+ If this option is selected, when the pager receives this character 
+ it splits the message into the next message slot.  Otherwise the
+ <ESC> character is ignored.

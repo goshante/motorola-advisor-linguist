@@ -1,0 +1,14 @@
+
+  Frequency
+
+  You must enter the synthesized frequency of the pager.  
+
+  Valid ranges are:
+                   152.0000 to 168.0000 MHz (must be a multiple of  5.0 Khz)
+                   278.0125 to 283.9875 MHz (must be a multiple of 12.5 KHz)
+                   929.0000 to 932.0000 MHz (must be a multiple of 12.5 Khz)
+  Odd Frequencies  152.0075, & 929.0025 and up with 40 KHz increment.
+
+  For 280s the spacing is 25KHz. Some Frequencies in these ranges may not be
+  synthesized.  Please refer to the Motorola ADVISOR Service Manual.
+

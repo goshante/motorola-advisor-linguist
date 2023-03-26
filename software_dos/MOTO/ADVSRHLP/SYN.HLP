@@ -1,0 +1,6 @@
+
+  Synthesizer
+
+  When this option is selected you are programming a pager which has a
+  synthesized receiver.  If this option is YES, you must enter the 
+  frequency at which the pager is to operate.

@@ -1,0 +1,6 @@
+ HELP Path
+
+ This is the full pathname of the directory in which the ADVISOR
+ Over-the-Air Programming Software Help files are located. Ordinarily this
+ parameter is initialized during execution of the SETUP program and should
+ not need to be changed.

@@ -1,0 +1,11 @@
+ Show Paging Communication
+
+ Setting this parameter to 'YES' allows you to see the paging terminal
+ communication progress. Although this program displays the communication
+ progress and reports on communication errors, this feature is useful
+ if your paging terminal is configured to display informative operator
+ text messages. In the event that your paging terminal is experiencing
+ difficulty in accepting pages, this program will simply report that
+ pages are being rejected. If a more informative message is being supplied
+ by your paging terminal, enabling this feature allows you to see this
+ message.

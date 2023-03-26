@@ -1,0 +1,7 @@
+
+  Blank Display
+
+  After a short period of inactivity of the user not having pushed any
+  buttons and no pages having been received, the display clears to blank.
+  This is done to extend battery life. If this option is set to 'No', the
+  display never clears to blank and battery life is shortened considerably.

@@ -1,0 +1,8 @@
+
+  Tone Alert Type
+
+  You may select one of 3 types of tone alerts:
+	1) Standard: gives you the standard POCSAG tone alerts.
+        2) Custom: allows you to customize your own alert cadences
+		   via another programmer menu.
+	3) Pleasing: gives you pre-programmed "pleasing" alerts.
